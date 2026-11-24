@@ -1,1 +1,3 @@
 node_modules/
+proje/*/cikti/*
+!proje/*/cikti/SERI-ONIZLEME.png

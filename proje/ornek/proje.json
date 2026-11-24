@@ -1,0 +1,13 @@
+{
+  "musteri": "Örnek Dernek",
+  "olcu": { "genislik_mm": 850, "yukseklik_mm": 2000, "kaset_mm": 100 },
+  "logo": "logo.png",
+  "renkler": { "lacivert": "#0B2A5B", "mavi": "#1F5FAF", "altinKoyu": "#B8862A", "altinAcik": "#F5D67A" },
+  "afisler": [
+    { "dosya_adi": "01-gazze",  "ikon": "tent",               "baslik": ["Gazze", "Acil Yardım"], "slogan": ["Zor zamanlarda,", "yan yanayız."],   "foto": "foto/gazze.jpg" },
+    { "dosya_adi": "02-su",     "ikon": "droplet",            "baslik": "Su Kuyusu",              "slogan": ["Bir damla,", "bir gelecek."],         "foto": "foto/su.jpg" },
+    { "dosya_adi": "03-saglik", "ikon": "heartbeat"         , "baslik": "Sağlık",                 "slogan": ["Bir dokunuş,", "bir umut."],          "foto": "foto/saglik.jpg" },
+    { "dosya_adi": "04-egitim", "ikon": "book",               "baslik": "Eğitim",                 "slogan": ["Gelecek", "ilimle başlar."],          "foto": "foto/egitim.jpg" },
+    { "dosya_adi": "05-yetim",  "ikon": "users-group",        "baslik": "Yetim",                  "slogan": ["Bir çocuğun", "yarınına dokun."],     "foto": "foto/yetim.jpg" }
+  ]
+}
