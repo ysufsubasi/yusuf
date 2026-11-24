@@ -1,0 +1,25 @@
+{
+  "name": "yusuf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysufsubasi/yusuf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysufsubasi/yusuf/issues"
+  },
+  "homepage": "https://github.com/ysufsubasi/yusuf#readme",
+  "dependencies": {
+    "@tabler/icons": "^3.52.0",
+    "dotted-map": "^3.1.0",
+    "lucide-static": "^1.79.0"
+  }
+}
